@@ -30,6 +30,10 @@ Les données d'origine couvrent la période de 𝟮𝟬𝟭𝟵 à 𝟮𝟬𝟮�
 - 𝗟𝗲 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗱𝘂 𝗩𝗼𝗹𝘂𝗺𝗲 𝘃𝘀 𝗩𝗮𝗹𝗲𝘂𝗿 : La 𝗙𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗽𝘆𝘁𝗵𝗼𝗻 se vend très bien en volume (96 ventes, 2e du classement), mais génère proportionnellement moins de chiffre d'affaires que la 𝗙𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗚𝗲𝘀𝘁𝗶𝗼𝗻 𝗱𝗲 𝗣𝗿𝗼𝗷𝗲𝘁, qui est beaucoup plus rentable malgré un volume légèrement inférieur (93 ventes pour 84 665 €).
   
 - 𝗧𝗲𝗻𝗱𝗮𝗻𝗰𝗲 𝗧𝗲𝗺𝗽𝗼𝗿𝗲𝗹𝗹𝗲 : L'activité a connu une croissance constante pour atteindre son apogée en 𝟮𝟬𝟮𝟭 (139 formations vendues pour un pic de 90 610 € de CA), avant de marquer un léger fléchissement en 2022. Cela suggère un besoin de renouvellement du catalogue ou une relance des actions commerciales.
+  <img width="1335" height="421" alt="ZZ" src="https://github.com/user-attachments/assets/238101eb-b695-4097-902c-a86c909f4564" />
+  <img width="1340" height="312" alt="Z" src="https://github.com/user-attachments/assets/66004af9-8b8b-48a7-9816-6dff65576ab7" />
+
+
 
   𝗖𝗼𝗺𝗺𝗲𝗻𝘁 𝗨𝘁𝗶𝗹𝗶𝘀𝗲𝗿 𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝘁 ?
 
